@@ -1,3 +1,7 @@
+//Sinenkhosi Mamba
+//162287
+//uploaded using Git GUI
+
 #include "StdAfx.h"
 #include <iostream>
 #include "MyList.h"

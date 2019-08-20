@@ -1,3 +1,7 @@
+//Sinenkhosi Mamba 
+//162287
+//uploaded using Git GUI
+
 // LinkedList Example : Console Application
 #include "stdafx.h"
 #include "MyList.h" 
